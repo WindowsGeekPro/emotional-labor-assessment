@@ -8,6 +8,7 @@
 6. Am i maintaining personal hygiene?
 7. Am i sick?
 8. Do i feel okay?
+9. Am i away from bad habits?
 ```
 ## Dealing with humans
 ```
@@ -75,5 +76,20 @@
 5. Do i know where to release my emotions?
 6. Am i mentally strong?
 7. Do i feel okay today?
-8. Do i know what to be open and what to be private?
+8. Do i know what to keep open and what to keep private?
+```
+## Dealing with Productivity
+```
+1. Am i curiously about something?
+2. Am i researching?
+3. Am i learning something new?
+4. Am i spending my time well?
+5. Am i lazy?
+6. Is my improvement level progressing?
+7. Am i updating myself?
+8. Am i reading something?
+9. Am i writing something?
+10. Am i designing something?
+11. Am i coding?
+12. Should i build something?
 ```
